@@ -11,7 +11,7 @@ I'm currently pursuing my B.E. in Artificial Intelligence & Data Science.
 - Data Science
 
  🎯 My Goal
-To build a strong foundation in programming and AI & Data Science by learning, practicing, and working on real-world projects.
+    To build a strong foundation in programming and AI & Data Science by learning, practicing,        and working on real-world projects.
 
 📌 About Me
 - Beginner in programming
