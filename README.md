@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nikitha 👋
 
-<!--
-**nikitha-2007/nikitha-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Engineering Student
+I'm currently pursuing my B.E. in Artificial Intelligence & Data Science.
+ 🌱 Currently Learning
+- Python
+- Java
+- Data Structures and Algorithms
+- Artificial Intelligence
+- Data Science
+ 🎯 My Goal
+To build a strong foundation in programming and AI & Data Science by learning, practicing, and working on real-world projects.
+📌 About Me
+- Beginner in programming
+- Currently improving my Python and Java skills
+- Interested in Artificial Intelligence and Data Science
+- Building my skills step by step
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! 😊
